@@ -2,7 +2,7 @@
 // KYU SEUNG SIM
 // Dr. Elliot
 // COMP SCI 256-0800
-// JUN 18, 2020
+// JUN 19, 2020
 
 // the import keyword is used to load in additional Java PACKAGE code for our programs
 // in this case, we are loading in the standard "util" package for the Scanner class
