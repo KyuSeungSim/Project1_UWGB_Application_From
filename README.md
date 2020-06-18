@@ -1,2 +1,5 @@
-# LiberateToAutomate
-Project 1 Starting Point for CS-256
+Project 1
+KYU SEUNG SIM
+Dr. Elliot
+COMP SCI 256-0800
+JUN 18, 2020
