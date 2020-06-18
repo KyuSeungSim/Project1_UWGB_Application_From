@@ -63,11 +63,13 @@ public class UWGB2020ApplicationForm {
 
     // perform String concatenation using the + operator and output the result to the console
     System.out.println("Please Double Check Before Submit");
-    System.out.println("You Entered: " + user_last_name);
-    System.out.println("You Entered: " + user_first_name);
-    System.out.println("You Entered: " + user_major);
-    System.out.println("You Entered: " + user_phone_number);
-    System.out.println("You Entered: " + user_email);            
+    System.out.println("");
+    System.out.println("UW-Green Bay 2020 Fall Semester Application");
+    System.out.println("Last Name: " + user_last_name);
+    System.out.println("First Name: " + user_first_name);
+    System.out.println("Major: " + user_major);
+    System.out.println("Phone Number: " + user_phone_number);
+    System.out.println("Email: " + user_email);            
 
   }
 }
