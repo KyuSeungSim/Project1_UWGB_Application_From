@@ -1,4 +1,4 @@
-Project 1
+Project 1 \n
 KYU SEUNG SIM
 Dr. Elliot
 COMP SCI 256-0800
