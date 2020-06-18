@@ -35,25 +35,30 @@ public class UWGB2020ApplicationForm {
     System.out.println("Please Eneter Your information");
     System.out.println();    
 
-    //System.out.println("EX) Sim");
+    System.out.println("EX) Sim");
     System.out.print("Enter Your Last Name: ");
     String user_last_name = user_input_last_name.nextLine();
+    System.out.println();  
 
-    //System.out.println("EX) Sammy");
+    System.out.println("EX) Sammy");
     System.out.print("Enter Your First Name: ");    
     String user_first_name = user_input_first_name.nextLine();
+    System.out.println();  
 
-    //System.out.println("EX) Computer Science");
+    System.out.println("EX) Computer Science");
     System.out.print("Enter Your Major: ");
     String user_major = user_input_major.nextLine();
+    System.out.println();  
 
-    //System.out.println("EX) 000-000-0000");
+    System.out.println("EX) 000-000-0000");
     System.out.print("Enter Your Phone Number: ");    
     String user_phone_number = user_input_phone_number.nextLine();
+    System.out.println();  
 
-    //System.out.println("EX) sammy1234@gmail.com");
+    System.out.println("EX) sammy1234@gmail.com");
     System.out.print("Enter Your Email: ");
-    String user_email = user_input_email.nextLine();        
+    String user_email = user_input_email.nextLine();
+    System.out.println();          
 
 
     // initialize a STRING VARIABLE and call the Scanner.nextLine() of user_input
